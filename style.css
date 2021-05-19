@@ -41,3 +41,9 @@ a {
   color: rgb(95, 95, 95);
   font-size: small;
 }
+
+@media screen and (max-width: 630px) {
+  body {
+    margin: 2em;
+  }
+}
