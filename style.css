@@ -1,0 +1,43 @@
+body {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(245, 245, 245);
+}
+
+p,
+a {
+  font-family: "Open Sans", sans-serif;
+  font-size: medium;
+  padding-right: 20px;
+}
+a {
+  color: #ff4300;
+  text-decoration: none;
+}
+
+.fonte {
+  font-family: "Open Sans", sans-serif;
+}
+
+#titulo {
+  font-family: "Open Sans", sans-serif;
+  font-size: xx-large;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.box-video {
+  margin-bottom: 40px;
+  max-width: 560px;
+}
+
+#direitos {
+  color: rgb(95, 95, 95);
+  font-size: small;
+}
