@@ -47,6 +47,6 @@ a {
     margin: 2em;
   }
   iframe {
-    height: auto;
+    height: 100% !important;
   }
 }
